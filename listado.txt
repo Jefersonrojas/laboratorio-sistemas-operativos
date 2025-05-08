@@ -1,0 +1,9 @@
+total 20
+drwxrwxr-x  5 kali kali 4096 may  7 19:01 .
+drwx------ 19 kali kali 4096 may  7 18:54 ..
+-rw-rw-r--  1 kali kali    0 may  7 18:32 config.cfg
+drwxrwxr-x  4 kali kali 4096 may  7 18:59 datos
+-rw-rw-r--  1 kali kali    0 may  7 19:01 listado.txt
+drwxrwxr-x  2 kali kali 4096 may  7 18:46 respaldo
+drwxrwxr-x  2 kali kali 4096 may  7 18:23 scripts
+Nueva línea de texto

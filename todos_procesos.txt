@@ -1,0 +1,296 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  24160 14420 ?        Ss   17:59   0:01 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    17:59   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    17:59   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kvfree_rcu_reclaim]
+root           5  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-rcu_gp]
+root           6  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-sync_wq]
+root           7  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-slub_flushwq]
+root           8  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-netns]
+root          11  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/0:0H-events_highpri]
+root          13  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-mm_percpu_wq]
+root          14  0.0  0.0      0     0 ?        I    17:59   0:00 [rcu_tasks_kthread]
+root          15  0.0  0.0      0     0 ?        I    17:59   0:00 [rcu_tasks_rude_kthread]
+root          16  0.0  0.0      0     0 ?        I    17:59   0:00 [rcu_tasks_trace_kthread]
+root          17  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/0]
+root          18  0.1  0.0      0     0 ?        I    17:59   0:05 [rcu_preempt]
+root          19  0.0  0.0      0     0 ?        S    17:59   0:00 [rcu_exp_par_gp_kthread_worker/0]
+root          20  0.0  0.0      0     0 ?        S    17:59   0:00 [rcu_exp_gp_kthread_worker]
+root          21  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/0]
+root          22  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/0]
+root          23  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/0]
+root          24  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/1]
+root          25  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/1]
+root          26  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/1]
+root          27  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/1]
+root          29  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/1:0H-events_highpri]
+root          30  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/2]
+root          31  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/2]
+root          32  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/2]
+root          33  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/2]
+root          35  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/2:0H-events_highpri]
+root          36  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/3]
+root          37  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/3]
+root          38  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/3]
+root          39  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/3]
+root          41  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/3:0H-events_highpri]
+root          42  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/4]
+root          43  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/4]
+root          44  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/4]
+root          45  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/4]
+root          47  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/4:0H-events_highpri]
+root          48  0.0  0.0      0     0 ?        S    17:59   0:00 [cpuhp/5]
+root          49  0.0  0.0      0     0 ?        S    17:59   0:00 [idle_inject/5]
+root          50  0.0  0.0      0     0 ?        S    17:59   0:00 [migration/5]
+root          51  0.0  0.0      0     0 ?        S    17:59   0:00 [ksoftirqd/5]
+root          53  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/5:0H-events_highpri]
+root          62  0.0  0.0      0     0 ?        S    17:59   0:00 [kdevtmpfs]
+root          63  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-inet_frag_wq]
+root          65  0.0  0.0      0     0 ?        S    17:59   0:00 [kauditd]
+root          66  0.0  0.0      0     0 ?        S    17:59   0:00 [khungtaskd]
+root          68  0.0  0.0      0     0 ?        S    17:59   0:00 [oom_reaper]
+root          69  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-writeback]
+root          70  0.0  0.0      0     0 ?        S    17:59   0:00 [kcompactd0]
+root          71  0.0  0.0      0     0 ?        SN   17:59   0:00 [ksmd]
+root          72  0.0  0.0      0     0 ?        SN   17:59   0:00 [khugepaged]
+root          73  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kintegrityd]
+root          74  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kblockd]
+root          75  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-blkcg_punt_bio]
+root          76  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/9-acpi]
+root          79  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-tpm_dev_wq]
+root          80  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-edac-poller]
+root          82  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-devfreq_wq]
+root          83  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/0:1H-kblockd]
+root          84  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/25-AMD-Vi0-Evt]
+root          85  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/26-AMD-Vi0-PPR]
+root          86  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/27-AMD-Vi0-GA]
+root          87  0.0  0.0      0     0 ?        S    17:59   0:00 [kswapd0]
+root          96  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kthrotld]
+root          98  0.0  0.0      0     0 ?        I    17:59   0:00 [kworker/4:1-mm_percpu_wq]
+root         101  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-acpi_thermal_pm]
+root         103  0.0  0.0      0     0 ?        I    17:59   0:00 [kworker/0:2-events]
+root         104  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-mld]
+root         105  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/2:1H-kblockd]
+root         106  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-ipv6_addrconf]
+root         111  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kstrp]
+root         115  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/u27:0-hci0]
+root         116  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/u28:0-ttm]
+root         183  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/28-ACPI:Event]
+root         184  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/29-ACPI:Event]
+root         185  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/30-ACPI:Event]
+root         186  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/31-ACPI:Event]
+root         187  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/32-ACPI:Event]
+root         188  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/33-ACPI:Event]
+root         189  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/34-ACPI:Event]
+root         219  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/4:1H-kblockd]
+root         233  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/3:1H-kblockd]
+root         246  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/5:1H-kblockd]
+root         247  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/1:1H-kblockd]
+root         253  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-cryptd]
+root         258  0.0  0.0      0     0 ?        S    17:59   0:00 [watchdogd]
+root         282  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-nvme-wq]
+root         289  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-nvme-reset-wq]
+root         291  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-nvme-delete-wq]
+root         292  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-nvme-auth-wq]
+root         303  0.0  0.0      0     0 ?        S    17:59   0:00 [irq/38-ELAN071A:00]
+root         340  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-amdgpu-reset-dev]
+root         341  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-ttm]
+root         342  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-amdgpu_dm_hpd_rx_offload_wq]
+root         343  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-amdgpu_dm_hpd_rx_offload_wq]
+root         344  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-dm_vblank_control_workqueue]
+root         345  0.0  0.0      0     0 ?        S    17:59   0:00 [card0-crtc0]
+root         346  0.0  0.0      0     0 ?        S    17:59   0:00 [card0-crtc1]
+root         347  0.0  0.0      0     0 ?        S    17:59   0:00 [card0-crtc2]
+root         348  0.0  0.0      0     0 ?        S    17:59   0:00 [card0-crtc3]
+root         349  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-gfx]
+root         350  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.0.0]
+root         351  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.1.0]
+root         352  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.2.0]
+root         353  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.3.0]
+root         354  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.0.1]
+root         355  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.1.1]
+root         356  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.2.1]
+root         357  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-comp_1.3.1]
+root         358  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-sdma0]
+root         359  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-vcn_dec]
+root         360  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-vcn_enc0]
+root         361  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-vcn_enc1]
+root         362  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-jpeg_dec]
+root         405  0.0  0.0      0     0 ?        S    17:59   0:00 [jbd2/nvme0n1p2-8]
+root         406  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-ext4-rsv-conversion]
+root         472  0.0  0.2  51236 17288 ?        Ss   17:59   0:00 /usr/lib/systemd/systemd-journald
+systemd+     489  0.0  0.1  92020  8104 ?        Ssl  17:59   0:00 /usr/lib/systemd/systemd-timesyncd
+root         494  0.0  0.1  36540 10752 ?        Ss   17:59   0:00 /usr/lib/systemd/systemd-udevd
+root         521  0.0  0.0      0     0 ?        S    17:59   0:00 [psimon]
+root         587  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-cfg80211]
+root         592  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/u27:2-hci0]
+root         608  0.0  0.0      0     0 ?        I    17:59   0:00 [kworker/3:3-mm_percpu_wq]
+root         609  0.6  0.0      0     0 ?        S    17:59   0:24 [irq/72-rtw88_pci]
+root         667  0.0  0.1   8380  7620 ?        Ss   17:59   0:00 /usr/sbin/haveged --Foreground --verbose=1
+root         673  0.0  0.1 309376  7536 ?        Ssl  17:59   0:00 /usr/libexec/accounts-daemon
+message+     675  0.0  0.0  10484  6704 ?        Ss   17:59   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+polkitd      680  0.0  0.1 386668 11748 ?        Ssl  17:59   0:00 /usr/lib/polkit-1/polkitd --no-debug --log-level=notice
+root         682  0.0  0.0   9688  5480 ?        Ss   17:59   0:00 /usr/sbin/smartd -n
+root         683  0.0  0.1  19116  9484 ?        Ss   17:59   0:00 /usr/lib/systemd/systemd-logind
+root         742  0.0  0.2 337244 19932 ?        Ssl  17:59   0:02 /usr/sbin/NetworkManager --no-daemon
+root         776  0.0  0.1 390884 11940 ?        Ssl  17:59   0:00 /usr/sbin/ModemManager
+root         833  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-rpciod]
+root         834  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-xprtiod]
+root         836  0.0  0.0   6864  2772 ?        Ss   17:59   0:00 /usr/sbin/cron -f
+root         837  0.0  0.1  18676 11368 ?        Ss   17:59   0:00 /usr/sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         846  0.0  0.0 380844  7012 ?        SLsl 17:59   0:00 /usr/sbin/lightdm
+root         857  4.9  1.7 1568372 134628 tty7   Rsl+ 17:59   3:15 /usr/lib/xorg/Xorg :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root         858  0.0  0.0   8152  2544 tty1     Ss+  17:59   0:00 /sbin/agetty -o -- \u --noreset --noclear - linux
+root         886  0.0  0.0      0     0 ?        S    17:59   0:00 [psimon]
+rtkit        919  0.0  0.0  21472  3084 ?        SNsl 17:59   0:00 /usr/libexec/rtkit-daemon
+root        1028  0.0  0.1 171008  8448 ?        Sl   18:00   0:00 lightdm --session-child 13 24
+kali        1041  0.0  0.1  22808 12588 ?        Ss   18:00   0:00 /usr/lib/systemd/systemd --user
+kali        1043  0.0  0.0  23416  3780 ?        S    18:00   0:00 (sd-pam)
+kali        1061  0.0  0.0   7220  3324 ?        Ss   18:00   0:00 /usr/bin/mpris-proxy
+kali        1062  0.0  0.1 102556 12348 ?        S<sl 18:00   0:00 /usr/bin/pipewire
+kali        1063  0.0  0.0  84744  5220 ?        Ssl  18:00   0:00 /usr/bin/pipewire -c filter-chain.conf
+kali        1065  0.0  0.2 479816 17796 ?        S<sl 18:00   0:00 /usr/bin/wireplumber
+kali        1066  0.0  0.1  99876  8808 ?        S<sl 18:00   0:00 /usr/bin/pipewire-pulse
+kali        1067  0.0  0.1 183420 10216 ?        SLsl 18:00   0:00 /usr/bin/gnome-keyring-daemon --foreground --components=pkcs11,secrets --control-directory=/run/user/1000/keyring
+kali        1068  0.0  0.0   9672  5972 ?        Ss   18:00   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+kali        1084  0.0  0.5 352032 38604 ?        Ssl  18:00   0:03 xfce4-session
+kali        1181  0.2  0.1 457904  8136 ?        Ssl  18:00   0:11 /usr/bin/ibus-daemon --daemonize --xim
+kali        1195  0.0  0.1 313060  8012 ?        Ssl  18:00   0:00 /usr/libexec/gvfsd
+kali        1197  0.0  0.0 381244  7372 ?        Ssl  18:00   0:00 /usr/libexec/at-spi-bus-launcher
+kali        1203  0.0  0.0 474308  7396 ?        Sl   18:00   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+kali        1205  0.0  0.0 243156  7180 ?        Sl   18:00   0:00 /usr/libexec/ibus-dconf
+kali        1210  0.0  0.6 379408 46244 ?        Sl   18:00   0:02 /usr/libexec/ibus-ui-gtk3
+kali        1213  0.0  0.4 284060 36352 ?        Sl   18:00   0:03 /usr/libexec/ibus-extension-gtk3
+kali        1219  0.0  0.1 178320 12616 ?        Sl   18:00   0:00 /usr/libexec/ibus-x11 --kill-daemon
+kali        1225  0.0  0.0   8740  4772 ?        S    18:00   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+kali        1228  0.0  0.0 308668  7252 ?        Sl   18:00   0:00 /usr/libexec/ibus-portal
+kali        1257  0.0  0.1 168740  7536 ?        Sl   18:00   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+kali        1260  0.0  0.2 631008 20656 ?        Ssl  18:00   0:00 /usr/libexec/xdg-desktop-portal
+kali        1268  0.0  0.0 309012  6592 ?        Ssl  18:00   0:00 /usr/libexec/xdg-permission-store
+kali        1273  0.0  0.0 613708  7132 ?        Ssl  18:00   0:00 /usr/libexec/xdg-document-portal
+root        1280  0.0  0.0   2584  1852 ?        Ss   18:00   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+kali        1285  0.0  0.3 416164 29196 ?        Ssl  18:00   0:00 /usr/libexec/xdg-desktop-portal-gtk
+kali        1290  0.0  0.1 169448  7480 ?        Sl   18:00   0:02 /usr/libexec/ibus-engine-simple
+root        1302  0.0  0.0 309556  7168 ?        Ssl  18:00   0:00 /usr/libexec/power-profiles-daemon
+kali        1306  0.0  0.0  10928  1920 ?        Ss   18:00   0:00 /usr/bin/ssh-agent -s
+kali        1319  0.0  0.0  81740  3620 ?        SLs  18:00   0:00 /usr/bin/gpg-agent --supervised
+kali        1323  1.6  1.8 1287656 135080 ?      Sl   18:00   1:02 xfwm4
+kali        1346  0.0  0.4 281772 33148 ?        Sl   18:00   0:01 xfsettingsd
+kali        1351  0.0  0.0 165332  6012 ?        Ssl  18:00   0:00 /usr/libexec/dconf-service
+kali        1355  0.6  0.8 550216 60504 ?        Sl   18:00   0:26 xfce4-panel
+kali        1360  0.7  0.8 1091960 62404 ?       Sl   18:00   0:29 Thunar --daemon
+kali        1366  0.1  1.0 534484 76068 ?        Sl   18:00   0:04 xfdesktop
+kali        1370  0.0  0.6 594476 51544 ?        Sl   18:00   0:01 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libwhiskermenu.so 1 25165831 whiskermenu Menú Whisker Mostrar un menú para acceder fácilmente a las aplicaciones instaladas
+kali        1374  0.4  1.0 255268 78924 ?        Sl   18:00   0:16 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libcpugraph.so 13 25165836 cpugraph Gráfico del procesador Gráfico de la carga del procesador
+kali        1375  0.0  0.3 415888 29180 ?        Sl   18:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libsystray.so 14 25165837 systray Bandeja de estado Proporciona notificaciones de estado (indicadores de aplicación) y elementos de la bandeja del sistema heredada
+kali        1376  0.2  0.4 278468 32640 ?        Sl   18:00   0:08 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libgenmon.so 15 25165838 genmon Monitor genérico Mostrar la salida de una orden.
+kali        1377  0.0  0.6 376884 45972 ?        Sl   18:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libpulseaudio-plugin.so 16 25165839 pulseaudio PulseAudio Ajusta el volumen del sistema de sonido PulseAudio
+kali        1378  0.0  0.5 443076 44808 ?        Sl   18:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libnotification-plugin.so 17 25165840 notification-plugin Notificaciones Notificaciones para el panel de Xfce
+kali        1379  0.1  0.6 303952 46204 ?        Sl   18:00   0:04 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libxfce4powermanager.so 18 25165841 power-manager-plugin Gestor de energía Muestra los niveles de la batería de los dispositivos y controla el brillo de la pantalla
+kali        1387  0.0  0.5 443336 44316 ?        Sl   18:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/panel/wrapper-2.0 /usr/lib/x86_64-linux-gnu/xfce4/panel/plugins/libactions.so 22 25165842 actions Botones de acción Cerrar sesión, bloquear sesión u otras acciones del sistema
+root        1415  0.0  0.1 319504 10900 ?        Ssl  18:00   0:01 /usr/libexec/upowerd
+kali        1426  0.0  0.2 407920 20024 ?        Ssl  18:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/notifyd/xfce4-notifyd
+kali        1428  0.1  0.8 604716 60936 ?        Sl   18:00   0:06 plank
+kali        1432  0.0  1.1 1111488 88232 ?       Sl   18:00   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+kali        1436  0.0  0.3 734052 29840 ?        SNl  18:00   0:00 /usr/libexec/tracker-miner-fs-3
+kali        1443  0.0  0.1 857508  9496 ?        Sl   18:00   0:00 xiccd
+kali        1451  0.0  0.3 340864 27596 ?        Sl   18:00   0:00 xfce4-power-manager
+kali        1452  0.0  0.5 213848 38288 ?        Sl   18:00   0:01 xfce4-screensaver
+kali        1456  0.0  0.0 308648  6932 ?        Sl   18:00   0:00 /usr/libexec/geoclue-2.0/demos/agent
+kali        1462  0.0  0.8 606288 62604 ?        Sl   18:00   0:00 /usr/bin/python3 /usr/bin/blueman-applet
+kali        1469  0.0  0.2 191604 16772 ?        Sl   18:00   0:00 /usr/libexec/polkit-mate-authentication-agent-1
+kali        1471  0.0  0.5  65048 40888 ?        S    18:00   0:00 /usr/bin/python3 /usr/share/system-config-printer/applet.py
+kali        1473  0.0  0.6 604856 51228 ?        Sl   18:00   0:01 nm-applet
+kali        1476  0.0  0.0  12556  2180 ?        Ssl  18:00   0:00 xcape -e Super_L Control_L Escape
+colord      1487  0.0  0.1 316140 14400 ?        Ssl  18:00   0:00 /usr/libexec/colord
+kali        1621  0.0  0.5 354236 42288 ?        Ssl  18:00   0:02 /usr/libexec/bamf/bamfdaemon
+kali        1625  0.0  0.1 391476 11364 ?        Ssl  18:00   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+kali        1629  0.0  0.8 1462712 63900 ?       Ssl  18:00   0:00 /usr/libexec/evolution-source-registry
+root        1644  0.0  0.1 469996 13424 ?        Ssl  18:00   0:00 /usr/libexec/udisks2/udisksd
+kali        1707  0.0  0.0 308984  7048 ?        Ssl  18:00   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+kali        1717  0.0  0.0 308032  6520 ?        Ssl  18:00   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+kali        1726  0.0  0.3 518016 25572 ?        Sl   18:00   0:00 /usr/libexec/goa-daemon
+kali        1727  0.0  0.1 390148  8564 ?        Ssl  18:00   0:00 /usr/libexec/gvfs-afc-volume-monitor
+kali        1734  0.0  0.0 307956  6936 ?        Ssl  18:00   0:00 /usr/libexec/gvfs-goa-volume-monitor
+kali        1737  0.0  0.2 456588 22416 ?        Ssl  18:00   0:00 /usr/libexec/bluetooth/obexd
+kali        1756  0.0  0.1 387828  9296 ?        Sl   18:00   0:00 /usr/libexec/goa-identity-service
+kali        1791  0.0  0.3 894176 26324 ?        Ssl  18:00   0:00 /usr/libexec/evolution-calendar-factory
+kali        1794  0.0  0.4 754344 31148 ?        Ssl  18:00   0:00 /usr/libexec/evolution-addressbook-factory
+kali        1803  0.0  0.0 169088  6760 ?        Ssl  18:00   0:00 /usr/libexec/gvfsd-metadata
+kali        1814  0.0  0.1 534872 10076 ?        Sl   18:00   0:00 /usr/libexec/gvfsd-trash --spawner :1.19 /org/gtk/gvfs/exec_spaw/0
+kali        1883  4.0  5.0 34345652 374900 ?     SLl  18:00   2:38 /opt/google/chrome/chrome
+kali        1888  0.0  0.0   5848  1728 ?        S    18:00   0:00 cat
+kali        1889  0.0  0.0   5848  1656 ?        S    18:00   0:00 cat
+kali        1891  0.0  0.0 33576432 3304 ?       Sl   18:00   0:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/kali/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Kali GNU/Linux Rolling --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=135.0.7049.114 --initial-client-fd=5 --shared-client-connection
+kali        1893  0.0  0.0 33568220 3252 ?       Sl   18:00   0:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/kali/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Kali GNU/Linux Rolling --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=135.0.7049.114 --initial-client-fd=4 --shared-client-connection
+kali        1899  0.0  0.8 33939928 64736 ?      S    18:00   0:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+kali        1900  0.0  0.8 33939916 64428 ?      S    18:00   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+kali        1902  0.0  0.2 33939940 19368 ?      S    18:00   0:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+kali        1926  2.9  2.7 34451280 206564 ?     Sl   18:00   1:54 /opt/google/chrome/chrome --type=gpu-process --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=UAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA --shared-files --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali        1928  0.4  1.7 33955768 128300 ?     Sl   18:00   0:16 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali        1940  0.0  0.7 33998744 59740 ?      Sl   18:00   0:01 /opt/google/chrome/chrome --type=utility --utility-sub-type=storage.mojom.StorageService --lang=es-419 --service-sandbox-type=utility --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali        2049  0.2  2.0 1461474484 152324 ?   Sl   18:00   0:11 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=12 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=67892352 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root        2386  0.0  0.0      0     0 ?        I<   18:00   0:00 [kworker/u28:8-ttm]
+kali        2630  0.0  1.0 33999128 79876 ?      Sl   18:00   0:00 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --lang=es-419 --service-sandbox-type=none --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali        2792  4.3  6.9 1461513412 517792 ?   Sl   18:01   2:48 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=33 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=122980303 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root        3001  0.0  0.0      0     0 ?        I<   18:01   0:00 [kworker/u28:14-rtw_tx_wq]
+kali        3446  1.3  4.8 1461521624 360692 ?   Sl   18:02   0:50 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=44 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=190414523 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root        5539  0.0  0.0      0     0 ?        I    18:05   0:00 [kworker/1:0-events]
+root        6862  0.0  0.0      0     0 ?        I<   18:07   0:00 [kworker/u28:9-ttm]
+root        6863  0.0  0.0      0     0 ?        I<   18:07   0:00 [kworker/u28:12-ttm]
+root        6864  0.0  0.0      0     0 ?        I<   18:07   0:00 [kworker/u28:13-ttm]
+root        8042  0.0  0.0      0     0 ?        I<   18:09   0:00 [kworker/u28:15-ttm]
+root        8044  0.1  0.0      0     0 ?        I    18:09   0:05 [kworker/u24:0-gfx]
+root        8167  0.0  0.0      0     0 ?        I<   18:10   0:00 [kworker/u29:14-ttm]
+root        8490  0.0  0.0      0     0 ?        I    18:10   0:01 [kworker/u25:0-writeback]
+kali       10067  0.1  1.9 1461462876 142492 ?   Sl   18:13   0:03 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=67 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=887654562 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root       13130  0.0  0.0      0     0 ?        I<   18:18   0:00 [kworker/u28:4-ttm]
+root       13131  0.0  0.0      0     0 ?        I<   18:18   0:00 [kworker/u28:10-ttm]
+kali       19193  0.4  0.8 726688 64348 ?        Sl   18:30   0:09 /usr/bin/qterminal
+kali       19200  0.5  0.1  11788  7776 pts/2    Ss   18:30   0:12 /usr/bin/zsh
+root       19860  0.0  0.0      0     0 ?        I<   18:31   0:00 [kworker/u28:2-ttm]
+kali       19910  3.6  4.8 1461517004 361544 ?   Sl   18:31   1:14 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=105 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=1929853542 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root       20190  0.0  0.0      0     0 ?        I<   18:31   0:00 [kworker/u29:9-ttm]
+root       21648  0.0  0.0      0     0 ?        I    18:34   0:00 [kworker/3:1-events]
+root       21660  0.0  0.0      0     0 ?        I    18:34   0:00 [kworker/5:1-events]
+root       23074  0.0  0.0      0     0 ?        I<   18:36   0:00 [kworker/u28:1-ttm]
+root       23075  0.0  0.0      0     0 ?        I<   18:36   0:00 [kworker/u28:3-ttm]
+root       23490  0.0  0.0      0     0 ?        I    18:37   0:00 [kworker/u26:1-events_unbound]
+root       24422  0.0  0.0      0     0 ?        I    18:39   0:00 [kworker/4:2]
+root       24768  0.0  0.0      0     0 ?        I<   18:40   0:00 [kworker/u29:6-ttm]
+root       24769  0.0  0.0      0     0 ?        I<   18:40   0:00 [kworker/u29:13-ttm]
+root       25872  0.0  0.0      0     0 ?        I    18:42   0:01 [kworker/u25:2-events_unbound]
+root       27831  0.2  0.0      0     0 ?        I    18:45   0:02 [kworker/u24:1-comp_1.3.0]
+root       28742  0.0  0.0      0     0 ?        I    18:47   0:00 [kworker/u25:1-flush-259:0]
+root       29419  0.0  0.0      0     0 ?        D    18:48   0:00 [kworker/u26:0+events_unbound]
+root       30358  0.0  0.0      0     0 ?        I<   18:50   0:00 [kworker/u28:5-ttm]
+kali       30412 25.8  5.4 1459787324 404808 ?   Sl   18:50   3:46 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=142 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3080463388 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali       30442  0.0  1.0 1459714816 75548 ?    Sl   18:50   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=144 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3081455836 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root       30542  0.0  0.0      0     0 ?        I<   18:50   0:00 [kworker/u29:3-ttm]
+root       30544  0.0  0.0      0     0 ?        I<   18:50   0:00 [kworker/u29:5-ttm]
+root       31176  0.0  0.0      0     0 ?        I    18:51   0:00 [kworker/1:1]
+root       31185  0.0  0.0      0     0 ?        I    18:51   0:00 [kworker/2:1]
+root       31968  0.0  0.0      0     0 ?        I<   18:53   0:00 [kworker/u29:7-ttm]
+root       32410  0.0  0.0      0     0 ?        I<   18:53   0:00 [kworker/u29:8-ttm]
+root       32411  0.0  0.0      0     0 ?        I<   18:53   0:00 [kworker/u29:10-ttm]
+root       32413  0.0  0.0      0     0 ?        I    18:53   0:00 [kworker/u26:2-kvfree_rcu_reclaim]
+root       32587  0.0  0.0      0     0 ?        I<   18:54   0:00 [kworker/u29:12-ttm]
+root       32588  0.0  0.0      0     0 ?        I<   18:54   0:00 [kworker/u29:15-ttm]
+root       32662  0.0  0.0      0     0 ?        I<   18:54   0:00 [kworker/u28:6-ttm]
+root       32663  0.0  0.0      0     0 ?        I<   18:54   0:00 [kworker/u28:7-ttm]
+root       32907  0.0  0.0      0     0 ?        I    18:54   0:00 [kworker/5:0]
+root       33471  0.2  0.0      0     0 ?        I    18:55   0:01 [kworker/u24:3-comp_1.0.1]
+root       34863  0.0  0.0      0     0 ?        I    18:58   0:00 [kworker/0:1]
+root       35017  0.0  0.0      0     0 ?        I    18:58   0:00 [kworker/2:0-mm_percpu_wq]
+kali       36001  0.0  0.0 307748  6456 ?        Ssl  19:00   0:00 /usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+root       36032  0.0  0.0      0     0 ?        I    19:00   0:00 [kworker/u25:3-events_unbound]
+root       36201  0.0  0.0      0     0 ?        I    19:01   0:00 [kworker/u26:3-kvfree_rcu_reclaim]
+root       36298  0.2  0.0      0     0 ?        I    19:01   0:00 [kworker/u24:2-comp_1.2.0]
+kali       38359  0.1  1.3 1461426948 99644 ?    Sl   19:04   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=172 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3931215185 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali       38363  0.1  1.3 1461426948 97880 ?    Sl   19:04   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=173 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3931221578 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali       38368  0.2  1.6 1461427076 120752 ?   Sl   19:04   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=174 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3931225991 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+kali       38389  0.0  1.2 1461435144 95288 ?    Sl   19:04   0:00 /opt/google/chrome/chrome --type=renderer --crashpad-handler-pid=1891 --enable-crash-reporter=, --extension-process --change-stack-guard-on-fork=enable --lang=es-419 --num-raster-threads=3 --enable-main-frame-before-activation --renderer-client-id=175 --time-ticks-at-unix-epoch=-1746658743047573 --launch-time-ticks=3931248085 --shared-files=v8_context_snapshot_data:100 --field-trial-handle=3,i,7417401407181935316,6543924232452387328,262144 --variations-seed-version=20250506-050110.590000
+root       38416  0.0  0.0      0     0 ?        I<   19:04   0:00 [kworker/u29:0-ttm]
+root       38417  0.0  0.0      0     0 ?        I<   19:04   0:00 [kworker/u29:1-rtw_tx_wq]
+root       38418  0.0  0.0      0     0 ?        I<   19:04   0:00 [kworker/u29:2]
+kali       38607  0.0  0.0   9792  4448 pts/2    R+   19:04   0:00 ps aux

@@ -1,0 +1,26 @@
+=== Información del Sistema ===
+Usuario: kali
+Hostname: kali
+Fecha: 2025-05-07 19:26:23
+Kernel: 6.12.20-amd64
+Uptime: up 1 hour, 27 minutes
+=== Espacio en disco ===
+tmpfs            731M   1,6M  729M   1% /run
+/dev/nvme0n1p2   226G    38G  177G  18% /
+tmpfs            3,6G   106M  3,5G   3% /dev/shm
+tmpfs            5,0M      0  5,0M   0% /run/lock
+tmpfs            1,0M      0  1,0M   0% /run/credentials/systemd-journald.service
+tmpfs            3,6G    17M  3,6G   1% /tmp
+/dev/nvme0n1p1   975M   156K  974M   1% /boot/efi
+tmpfs            1,0M      0  1,0M   0% /run/credentials/getty@tty1.service
+tmpfs            731M   152K  731M   1% /run/user/1000
+=== Memoria ===
+               total       usado       libre  compartido   búf/caché  disponible
+Mem:           7,1Gi       2,6Gi       1,6Gi       136Mi       3,4Gi       4,6Gi
+Inter:         7,4Gi       256Ki       7,4Gi
+=== Procesos en ejecución ===
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  24160 14420 ?        Ss   17:59   0:01 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    17:59   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    17:59   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   17:59   0:00 [kworker/R-kvfree_rcu_reclaim]
