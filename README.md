@@ -19,3 +19,12 @@ Este repositorio documenta los ejercicios prácticos realizados durante el labor
 
 ## Últimos 3 Errores
 - 2023-08-15 14:30:45 Error de conexión
+
+
+> **Curso:** Sistemas Operativos  
+> **Docente:** Jorge Armando Olivares Quispe  
+> **Laboratorio:** Nº 06  
+> **Estudiante:** Jeferson Rojas 
+> **Fecha:** 07 de mayo de 2025
+
+
