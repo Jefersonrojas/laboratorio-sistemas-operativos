@@ -24,4 +24,10 @@
 - Conocimientos básicos de navegación en terminal.
 
 ---
+## 📸 Capturas de Pantalla
+<p align="left">
+  <img src="https://i.postimg.cc/PJ5RQp2F/Screenshot-2025-05-08-23-29-47.png" width="250">
+  
+ 
+</p>
 
